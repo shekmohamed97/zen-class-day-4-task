@@ -1,4 +1,4 @@
-Hi guys i will  show on to this file is function tasks .
+Hi guys i will  show on to the function tasks .
 and I'll useing to the 3 types of functions .
 1.annonymus function,
 2.IIFE function ,
